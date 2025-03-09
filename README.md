@@ -1,8 +1,17 @@
+# LunaHotel - Hotel Booking Platform
+
+**LunaHotel** is a modern and full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). The project provides a seamless and intuitive platform for users to browse, book, and manage hotel reservations for both leisure and business travel.
+
+## Purpose
+
+The primary goal of **LunaHotel** is to create a user-friendly experience for finding and reserving hotel accommodations. Whether you're planning a vacation getaway or a business trip, **LunaHotel** ensures that users can easily search for suitable hotels, make secure bookings, and manage their reservations.
+
+This project serves as a comprehensive demonstration of building a feature-rich web application using the MERN stack, showcasing best practices in both frontend and backend development.
+
+Feel free to explore **LunaHotel** and experience the smooth, secure, and efficient hotel booking process it offers.
 
 
-
-
-<h1>UPDATE - DECEMBER 21 2024</h1>
+<h1>UPDATE - MARCH 9TH 2025</h1>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/611d01de-3106-47da-9e38-ffcc7e71da7a" alt="Image 1" width="400"/>
